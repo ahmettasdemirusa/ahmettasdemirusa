@@ -20,7 +20,7 @@
 
 I run **Tasdemir LLC**, a deliberately small software studio: the person who takes the brief is the person who writes the code, sets up the server and answers the phone afterwards. I work end to end: architecture, backend, frontend, infrastructure and SEO.
 
-- 🏗️ Building **[XenWorker](https://xenworker.com)**, my own multi-tenant CMS platform on Cloudflare Workers
+- 🏗️ Building **[XenWorker](https://xenworker.com)**, my own multi-tenant CMS and hosting platform, built from scratch
 - 🛒 Shipping e-commerce, booking systems, dashboards, APIs and integrations for clients
 - 🧊 Bringing products to life in the browser with **WebGL, 3D and 360° viewers**
 - 🔐 Running what I build: servers, firewalls, backups and hardening
@@ -34,9 +34,9 @@ I run **Tasdemir LLC**, a deliberately small software studio: the person who tak
 <td width="50%" valign="top">
 
 #### 🏗️ [XenWorker](https://xenworker.com)
-A multi-tenant CMS platform running on **Cloudflare Workers**: 21 sector scripts, a plugin marketplace, licensing and billing. I built all of it myself. It powers my client sites.
+A **multi-tenant CMS and hosting platform**: 21 sector scripts, a plugin marketplace, licensing and billing. I built all of it myself. It powers my client sites.
 
-`Cloudflare Workers` `D1` `R2` `JavaScript`
+`Multi-tenant` `SaaS` `CMS` `JavaScript`
 
 </td>
 <td width="50%" valign="top">
@@ -104,7 +104,6 @@ Restaurants · kitchen & cabinet showrooms · e-commerce · travel & booking · 
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
 
 **Cloud & Infrastructure**<br>
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
