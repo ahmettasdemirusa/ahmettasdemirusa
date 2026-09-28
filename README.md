@@ -2,7 +2,7 @@
 
 # Ahmet Tasdemir
 
-### Software Engineer · Founder of [XenWorker](https://ahmettasdemir.com) · Tasdemir LLC
+### Software Engineer · Founder of [XenWorker](https://xenworker.com) · Tasdemir LLC
 
 **I design, build and host software for real businesses — from a first website to a multi-tenant platform.**
 
@@ -20,7 +20,7 @@
 
 I run **Tasdemir LLC**, a deliberately small software studio: the person who takes the brief is the person who writes the code, sets up the server and answers the phone afterwards. I work end to end: architecture, backend, frontend, infrastructure and SEO.
 
-- 🏗️ Building **XenWorker**, my own multi-tenant CMS platform on Cloudflare Workers
+- 🏗️ Building **[XenWorker](https://xenworker.com)**, my own multi-tenant CMS platform on Cloudflare Workers
 - 🛒 Shipping e-commerce, booking systems, dashboards, APIs and integrations for clients
 - 🧊 Bringing products to life in the browser with **WebGL, 3D and 360° viewers**
 - 🔐 Running what I build: servers, firewalls, backups and hardening
@@ -33,7 +33,7 @@ I run **Tasdemir LLC**, a deliberately small software studio: the person who tak
 <tr>
 <td width="50%" valign="top">
 
-#### 🏗️ XenWorker
+#### 🏗️ [XenWorker](https://xenworker.com)
 A multi-tenant CMS platform running on **Cloudflare Workers**: 21 sector scripts, a plugin marketplace, licensing and billing. I built all of it myself. It powers my client sites.
 
 `Cloudflare Workers` `D1` `R2` `JavaScript`
