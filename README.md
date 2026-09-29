@@ -34,7 +34,7 @@ I run **Tasdemir LLC**, a deliberately small software studio: the person who tak
 <td width="50%" valign="top">
 
 #### 🏗️ [XenWorker](https://xenworker.com)
-A **multi-tenant CMS and hosting platform**: 21 sector scripts, a plugin marketplace, licensing and billing. I built all of it myself. It powers my client sites.
+A **multi-tenant CMS and hosting platform**: 23 sector scripts, a plugin marketplace, licensing and billing. I built all of it myself. It powers my client sites.
 
 `Multi-tenant` `SaaS` `CMS` `JavaScript`
 
