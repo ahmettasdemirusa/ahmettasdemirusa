@@ -66,6 +66,16 @@ An SEO analysis dashboard with a site crawler, link-graph visualisation, AI-assi
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+#### 📍 [Local Business Schema Generator](https://github.com/ahmettasdemirusa/local-business-schema-generator) · [live demo](https://ahmettasdemirusa.github.io/local-business-schema-generator/)
+Builds LocalBusiness JSON-LD for local SEO and checks it against Google's structured data guidelines as you type. 50+ business types, opening-hours editor, share links. Zero dependencies; runs entirely in the browser.
+
+`JavaScript` `Schema.org` `JSON-LD` `Local SEO`
+
+</td>
+</tr>
 </table>
 
 ---
