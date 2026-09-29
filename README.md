@@ -27,7 +27,59 @@ I run **Tasdemir LLC**, a deliberately small software studio: the person who tak
 
 ---
 
-### 🚀 Featured work
+### 🧊 3D Web series
+Three open-source projects that work together to put products in 3D on the web.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### 🔄 [Spin360](https://github.com/ahmettasdemirusa/spin360)
+A zero-dependency **360° product viewer** web component. Drag, touch, keyboard, inertia and sprite sheets, under 5 KB gzipped.
+
+[▶ Live demo](https://ahmettasdemirusa.github.io/spin360/)
+
+</td>
+<td width="33%" valign="top">
+
+#### 🧊 [Three.js Product Skills](https://github.com/ahmettasdemirusa/threejs-product-skills)
+Teaches AI coding agents to build **3D product viewers, configurators, AR** and 360° spins, with tested three.js templates.
+
+[▶ Live demo](https://ahmettasdemirusa.github.io/threejs-product-skills/)
+
+</td>
+<td width="33%" valign="top">
+
+#### 🌐 [Awesome 3D Web](https://github.com/ahmettasdemirusa/awesome-3d-web)
+A curated, link-checked list of **libraries, tools and resources** for 3D on the web, from WebGPU to glTF pipelines.
+
+</td>
+</tr>
+</table>
+
+### 📍 Local SEO toolkit
+Two projects for helping local businesses get found on Google and Maps.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🤖 [Local SEO Skills for AI Agents](https://github.com/ahmettasdemirusa/local-seo-skills)
+Six skills that teach Claude Code, Codex and other agents to do **local SEO properly**: audits, schema, Google Business Profile, reviews, location pages and migrations. Every rule is backed by an official Google or FTC source.
+
+</td>
+<td width="50%" valign="top">
+
+#### 📍 [Local Business Schema Generator](https://github.com/ahmettasdemirusa/local-business-schema-generator)
+Builds **LocalBusiness JSON-LD** and checks it against Google's guidelines as you type. 50+ business types, zero dependencies.
+
+[▶ Live demo](https://ahmettasdemirusa.github.io/local-business-schema-generator/)
+
+</td>
+</tr>
+</table>
+
+### 🚀 More work
 
 <table>
 <tr>
@@ -36,15 +88,11 @@ I run **Tasdemir LLC**, a deliberately small software studio: the person who tak
 #### 🏗️ [XenWorker](https://xenworker.com)
 A **multi-tenant CMS and hosting platform**: 23 sector scripts, a plugin marketplace, licensing and billing. I built all of it myself. It powers my client sites.
 
-`Multi-tenant` `SaaS` `CMS` `JavaScript`
-
 </td>
 <td width="50%" valign="top">
 
 #### 📸 [Facefold](https://github.com/ahmettasdemirusa/facefold)
-Sorts a phone-and-cloud photo dump into real folders on disk **by who is in them**. Face recognition runs entirely offline; nothing is ever uploaded.
-
-`Python` `InsightFace` `Flask` `Local-first`
+Sorts a phone-and-cloud photo dump into real folders on disk **by who is in them**. Face recognition runs entirely offline.
 
 </td>
 </tr>
@@ -52,35 +100,13 @@ Sorts a phone-and-cloud photo dump into real folders on disk **by who is in them
 <td width="50%" valign="top">
 
 #### 🎻 [Sosyal Orkestra](https://github.com/ahmettasdemirusa/sosyalorkestra)
-A social media management panel: scheduling, multi-brand teams, approval flows and reporting for Facebook, Instagram, LinkedIn, Pinterest and Google Business, all through official APIs.
-
-`Python` `Flask` `Streamlit` `OAuth`
+A self-hosted **social media management** tool: scheduling, multi-brand teams, approvals and reporting through official APIs.
 
 </td>
 <td width="50%" valign="top">
 
 #### 🔎 [SEO Manager](https://github.com/ahmettasdemirusa/seo_manager)
-An SEO analysis dashboard with a site crawler, link-graph visualisation, AI-assisted recommendations and PDF reports.
-
-`Next.js` `TypeScript` `React` `Three.js`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🤖 [Local SEO Skills for AI Agents](https://github.com/ahmettasdemirusa/local-seo-skills)
-Six skills that teach Claude Code, Codex and other agents to do local SEO properly: audits, LocalBusiness schema, Google Business Profile, reviews, location pages and migrations. Every rule is backed by an official Google or FTC source.
-
-`Agent Skills` `Claude Code` `Python` `Local SEO`
-
-</td>
-<td width="50%" valign="top">
-
-#### 📍 [Local Business Schema Generator](https://github.com/ahmettasdemirusa/local-business-schema-generator) · [demo](https://ahmettasdemirusa.github.io/local-business-schema-generator/)
-Builds LocalBusiness JSON-LD and checks it against Google's structured data guidelines as you type. 50+ business types, zero dependencies, runs in the browser.
-
-`JavaScript` `Schema.org` `JSON-LD` `Local SEO`
+An **SEO analysis dashboard** with a crawler, link-graph visualisation, AI-assisted recommendations and PDF reports.
 
 </td>
 </tr>
