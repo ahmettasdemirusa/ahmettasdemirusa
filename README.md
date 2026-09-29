@@ -67,10 +67,18 @@ An SEO analysis dashboard with a site crawler, link-graph visualisation, AI-assi
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
-#### 📍 [Local Business Schema Generator](https://github.com/ahmettasdemirusa/local-business-schema-generator) · [live demo](https://ahmettasdemirusa.github.io/local-business-schema-generator/)
-Builds LocalBusiness JSON-LD for local SEO and checks it against Google's structured data guidelines as you type. 50+ business types, opening-hours editor, share links. Zero dependencies; runs entirely in the browser.
+#### 🤖 [Local SEO Skills for AI Agents](https://github.com/ahmettasdemirusa/local-seo-skills)
+Six skills that teach Claude Code, Codex and other agents to do local SEO properly: audits, LocalBusiness schema, Google Business Profile, reviews, location pages and migrations. Every rule is backed by an official Google or FTC source.
+
+`Agent Skills` `Claude Code` `Python` `Local SEO`
+
+</td>
+<td width="50%" valign="top">
+
+#### 📍 [Local Business Schema Generator](https://github.com/ahmettasdemirusa/local-business-schema-generator) · [demo](https://ahmettasdemirusa.github.io/local-business-schema-generator/)
+Builds LocalBusiness JSON-LD and checks it against Google's structured data guidelines as you type. 50+ business types, zero dependencies, runs in the browser.
 
 `JavaScript` `Schema.org` `JSON-LD` `Local SEO`
 
